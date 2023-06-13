@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Perkenalkan nama saya **Indy Istiqamah Nurlatifa**.\
-Saya seorang Mahasiswi semester VI di **Institut Teknologi PLN** Jurusan **S1 Teknik Informatika**.
+Hello !!.
 
 <p align="left">
 <a href="https://github.com/inndyis">
